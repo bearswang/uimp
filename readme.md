@@ -1,5 +1,8 @@
 # UIMP ROS + CARLA Demo
 
+https://github.com/user-attachments/assets/316ef3f7-2362-42c9-83f2-214fb3701407
+
+
 This project provides a multi-vehicle platooning/path-tracking demo in CARLA. The core ROS package is `uimp_ros`, which includes:
 
 - Trajectory planning (`planner/`)
