@@ -181,7 +181,16 @@ Ensure `source devel/setup.bash` has been executed and `uimp_ros` has been built
 - Make sure port `2000` is not occupied
 - If using a remote host, update `host/port` arguments in the launch configuration
 
+
 ### 8.4 Python module error (e.g., `carla`)
 
 Your current Python environment is missing required modules. Install them in the same environment where ROS nodes are launched, then retry.
+
+## 9. Authors
+
+[Shiyao Zhang](https://github.com/jasonzhangs001)
+
+[Shuai Wang](https://github.com/bearswang)
+
+
 
